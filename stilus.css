@@ -10,8 +10,8 @@ body {
 
 .banner {
     display: flex;
-     height: 100%;
-    width: 20%;   
+     height: 50%;
+    width: 100%;   
 }
 
 header h1,
